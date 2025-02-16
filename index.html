@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TODO-APP</title>
+</head>
+<body>
+
+    
+    
+
+    <script>
+       window.onload = function () {
+            if (localStorage.getItem("token")) {
+                window.location.href = "todo.html"; // If token exists, go to Dashboard
+            } else {
+                window.location.href = "sign-up.html"; // If no token, go to Sign-Up
+            }
+        };
+    </script>
+</body>
+</html>
