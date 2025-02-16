@@ -6,6 +6,10 @@ A **MongoDB-connected authentication-based** Todo application with robust **Zod-
 ![image](https://github.com/user-attachments/assets/6321a545-9f38-4890-abe5-016f04c77f65)
 ![image](https://github.com/user-attachments/assets/d88043e4-9745-4f0d-a6d2-3edee75f8a43)
 
+## Database: 
+![image](https://github.com/user-attachments/assets/cbe3fe59-c6d4-4652-b072-ca809cce8d9d)
+
+
 
 
 ## 🚀 **Features**
